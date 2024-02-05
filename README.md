@@ -1,8 +1,10 @@
-# BMW Reveal landing 2024
+# Car Reveal landing 2024
 
 [![Watch the video](https://raw.githubusercontent.com/Adrianprz/bmw-reveal/master/wall.png?token)](https://github.com/Adrianprz/bmw-reveal/blob/master/bmw.mp4)
 
-This is a demo of a scene creation with THREEJS and REACT
+Foggy night scene on a bridge with a car and a cloth. scrolling will reveal the model of the car! 
+
+Model from [Sketchfab](https://skfb.ly/oOtZD) 
 
 # DEPENDENCIES
 
